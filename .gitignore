@@ -1,0 +1,12 @@
+# Build output
+target/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Secrets (never commit these)
+.env
+*.key
