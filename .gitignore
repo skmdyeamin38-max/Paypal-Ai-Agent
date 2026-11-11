@@ -9,4 +9,5 @@ bin/
 
 # Secrets (never commit these)
 .env
-*.keybin
+   *.key
+   bin
